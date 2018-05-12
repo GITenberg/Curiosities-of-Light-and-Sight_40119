@@ -1,0 +1,30 @@
+_repo: Curiosities-of-Light-and-Sight_40119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bidwell, Shelford
+    birthdate: 1848
+    deathdate: 1909
+    gutenberg_agent_id: '40422'
+    url: http://www.gutenberg.org/2009/agents/40422
+description: ''
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcc 'QC'
+- !lcsh 'Light'
+- !lcsh 'Vision'
+tableOfContents: Light and the eye -- Colour and its perception -- Some optical defects
+  of the eye -- Optical illusions -- Curiosities of vision.
+title: Curiosities of Light and Sight
+url: http://www.gutenberg.org/ebooks/40119
